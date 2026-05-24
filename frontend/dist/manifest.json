@@ -1,0 +1,16 @@
+{
+  "short_name": "Sahi Fasal",
+  "name": "Sahi Fasal — Smart Crop Advisory",
+  "description": "AI-powered crop recommendations for Indian farmers based on soil, weather & water data.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a4530",
+  "background_color": "#102e1f"
+}
